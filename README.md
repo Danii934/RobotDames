@@ -1,6 +1,6 @@
 # RobotDames
 
-eux de dame
+Jeux de dame Client-Serveur
 
 Après avoir récupéré le code il est préférable de faire un 'make clean', ensuite lancer : make
 
